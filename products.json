@@ -541,5 +541,393 @@
     "newPrice": "15",
     "oldPrice": "22",
     "colors": ["#18131a", "#505b7a"]
-  }
+  },
+  {
+    "name": "Forever New sequin wrap mini dress in copper",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "53",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "46",
+    "colors": ["#823494"]
+  },
+  {
+    "name": "JDY mini dress with v neck in spot print",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "54",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "30",
+    "colors": ["#eb4034"]
+  },
+  {
+    "name": "Daisy Street mini smock dress in ditsy floral",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "55",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "40",
+    "oldPrice": "65",
+    "colors": ["#823494", "#eb4034"]
+  },
+  {
+    "name": "M Lounge bodycon midaxi dress",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "56",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "15",
+    "oldPrice": "25",
+    "colors": ["#8eba57"]
+  },
+  {
+    "name": "Style Cheat sparkle midi wrap dress in gold",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "57",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "77",
+    "colors": ["#823494"]
+  },
+  {
+    "name": "Bershka knitted dress with corset detail in oatmeal",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "58",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "12",
+    "colors": ["#201a2b", "#9974db"]
+  },
+  {
+    "name": "Sinead Gorey bustier mini dress with cord lace up in satin",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "59",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "78",
+    "colors": ["#9974db", "#4fdbc2"]
+  },
+  {
+    "name": "New Look puff sleeve shirt midi dress in black",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Dresses",
+    "id": "60",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "50",
+    "oldPrice": "55",
+    "colors": ["#4fdbc2"]
+  },
+  {
+    "name": "Skinnydip mini pleated skirt in butterfly print co-ord",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "61",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "20",
+    "oldPrice": "55",
+    "colors": ["#4fdbc2", "#7b818f"]
+  },
+  {
+    "name": "Daisy Street mini skirt in patchwork floral",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "62",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "76",
+    "oldPrice": "90",
+    "colors": ["#4fdbc2"]
+  },
+  {
+    "name": "Morgan pu pleated midi skirt with belt in black",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "63",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "20",
+    "oldPrice": "55",
+    "colors": ["#cca700", "#4fdbc2"]
+  },
+  {
+    "name": "Outrageous Fortune wrap detail midi skirt in leopard print",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "64",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "54",
+    "colors": ["#4fdbc2"]
+  },
+  {
+    "name": "Daisy Street mini skirt in ditsy floral mesh",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "65",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "50",
+    "colors": ["#54a893"]
+  },
+  {
+    "name": "True Violet ruffle midaxi skirt co ord with split in spot print",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "66",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "30",
+    "colors": ["#4fdbc2", "#fc1293"]
+  },
+  {
+    "name": "Daisy Street mini skirt in coral check",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "67",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "70",
+    "oldPrice": "75",
+    "colors": ["#3a5c56"]
+  },
+  {
+    "name": "Verona Curve pleated maxi skirt",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "68",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "54",
+    "colors": ["#3a5c56"]
+  },
+  {
+    "name": "Daisy Street mini pleated tennis skirt",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Skirts",
+    "id": "69",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "35",
+    "colors": ["#4fdbc2", "#3a5c56"]
+  },
+  {
+    "name": "JDY oversized sweatshirt with rib neck in purple",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "70",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "70",
+    "colors": ["#ad4b67"]
+  },
+  {
+    "name": "Pull&Bear sweatshirt co-ord in tie-dye print",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "71",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "90",
+    "colors": ["#29f27d"]
+  },
+  {
+    "name": "Daisy Street oversized sweatshirt with le soleil tarot print",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "72",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "15",
+    "oldPrice": "25",
+    "colors": ["#3a5c56", "#a5ff52"]
+  },
+  {
+    "name": "COLLUSION Unisex logo hoodie in dark grey",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "73",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "25",
+    "colors": ["#a5ff52", "#3a5c56"]
+  },
+  {
+    "name": "Bershka collegiate sweat with slogan in marl grey",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "74",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "60",
+    "oldPrice": "65",
+    "colors": ["#3a5c56"]
+  },
+  {
+    "name": "Pull&Bear seamless cropped sweatshirt in khaki",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "75",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "22",
+    "colors": ["#a6ff52"]
+  },
+  {
+    "name": "Nike mini swoosh oversized hoodie in black",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "76",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "15",
+    "oldPrice": "35",
+    "colors": ["#0fa3ff"]
+  },
+  {
+    "name": "Reebok large logo cropped sweatshirt in navy",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "77",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "46",
+    "colors": ["#3a5c56", "#0fa3ff"]
+  },
+  {
+    "name": "COLLUSION tie dye long sleeve top",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "78",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "80",
+    "colors": ["#3a5c56", "#c22110"]
+  },
+  {
+    "name": "Whistles Cest Chic logo sweatshirt",
+    "sex": "women",
+    "category": "clothing",
+    "subcategory": "Hoodies",
+    "id": "79",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "40",
+    "oldPrice": "75",
+    "colors": ["#3a5c56", "#1037c2"]
+  },
+  {
+    "name": "Crocs classic fur lined clogs in black",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "80",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "24",
+    "oldPrice": "26",
+    "colors": ["#2f302d"]
+  },
+  {
+    "name": "JCrocs classic fur lined clogs in white and grey",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "81",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "24",
+    "oldPrice": "30",
+    "colors": ["#fff", "#eee"]
+  },
+  {
+    "name": "Crocs bae platform shoes with chain detail in white",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "82",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "34",
+    "oldPrice": "56",
+    "colors": ["#565657"]
+  },
+  {
+    "name": "Birkenstock arizona sandals mocha",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "83",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "66",
+    "oldPrice": "78",
+    "colors": ["#565657", "#323aa8"]
+  },
+  {
+    "name": "Hi-Tec Ula Raft hiking sandal in orange",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "84",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "15",
+    "oldPrice": "25",
+    "colors": ["#32a852", "#7d0f2a"]
+  },
+  {
+    "name": "Crocs originals clogs in terracotta red",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "85",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "46",
+    "colors": ["#7d0f2a"]
+  },
+  {
+    "name": "Dr Martens vegan gryphon strap sandals in black",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "86",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "57",
+    "colors": ["#706565", "#323aa8"]
+  },
+  {
+    "name": "Teva hurricane drift eva sandals in white",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "87",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "24",
+    "colors": ["#32a852", "#706565"]
+  },
+  {
+    "name": "Teva original universal urban tech sandals in black",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "88",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "20",
+    "colors": ["#7d0f2a", "#323aa8"]
+  },
+  {
+    "name": "Crocs originals clogs in purple",
+    "sex": "men",
+    "category": "shoes",
+    "subcategory": "sandals",
+    "id": "89",
+    "img": "https://via.placeholder.com/300x400",
+    "newPrice": "25",
+    "oldPrice": "35",
+    "colors": ["#32a852", "#323aa8"]
+  },
+
 ]
